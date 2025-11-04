@@ -164,8 +164,11 @@
         <mxCell id="N6bxpgIg19IN0r31LylQ-30" value="&lt;div&gt;卓越在线后端&lt;/div&gt;zyzx-service-new&lt;div&gt;只有这里的部分接口可访问&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="315" y="950" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LAx7kguILdJ3CwmlgglK-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LAx7kguILdJ3CwmlgglK-0" value="鲸准教创建任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LAx7kguILdJ3CwmlgglK-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
