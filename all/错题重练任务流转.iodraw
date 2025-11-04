@@ -167,8 +167,8 @@
         <mxCell id="LAx7kguILdJ3CwmlgglK-0" value="鲸准教创建任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LAx7kguILdJ3CwmlgglK-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="920" width="120" height="60" as="geometry" />
+        <mxCell id="LAx7kguILdJ3CwmlgglK-1" value="任务中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
