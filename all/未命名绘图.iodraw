@@ -181,6 +181,9 @@
         <mxCell id="Du_0QxZBM9URv1k_5KB1-5" value="鲸准教WEB端&lt;div&gt;jx-backend&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Du_0QxZBM9URv1k_5KB1-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
