@@ -167,8 +167,19 @@
         <mxCell id="Du_0QxZBM9URv1k_5KB1-0" value="鲸准教内练习任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="1040" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Du_0QxZBM9URv1k_5KB1-1" value="鲸准教WEB端&lt;div&gt;jx-backend&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="1090" width="120" height="60" as="geometry" />
+        <mxCell id="Du_0QxZBM9URv1k_5KB1-2" value="pmp服务&lt;div&gt;pmp-service-sc&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="1109" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Du_0QxZBM9URv1k_5KB1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Du_0QxZBM9URv1k_5KB1-5" target="Du_0QxZBM9URv1k_5KB1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Du_0QxZBM9URv1k_5KB1-4" value="创建任务&lt;div&gt;Dubbo远程调用&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Du_0QxZBM9URv1k_5KB1-3">
+          <mxGeometry x="-0.02" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Du_0QxZBM9URv1k_5KB1-5" value="鲸准教WEB端&lt;div&gt;jx-backend&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
