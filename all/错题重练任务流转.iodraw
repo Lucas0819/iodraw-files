@@ -164,11 +164,19 @@
         <mxCell id="N6bxpgIg19IN0r31LylQ-30" value="&lt;div&gt;卓越在线后端&lt;/div&gt;zyzx-service-new&lt;div&gt;只有这里的部分接口可访问&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="315" y="950" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LAx7kguILdJ3CwmlgglK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LAx7kguILdJ3CwmlgglK-0" target="LAx7kguILdJ3CwmlgglK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LAx7kguILdJ3CwmlgglK-0" value="鲸准教创建任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LAx7kguILdJ3CwmlgglK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LAx7kguILdJ3CwmlgglK-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LAx7kguILdJ3CwmlgglK-1" value="任务中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="1090" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
