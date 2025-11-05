@@ -235,8 +235,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="-aDfiEXAthBZ9nUzxsOy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-aDfiEXAthBZ9nUzxsOy-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-aDfiEXAthBZ9nUzxsOy-22" value="新版错题本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="303" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="485" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
