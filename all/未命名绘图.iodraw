@@ -79,6 +79,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-aDfiEXAthBZ9nUzxsOy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N6bxpgIg19IN0r31LylQ-0" target="-aDfiEXAthBZ9nUzxsOy-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="N6bxpgIg19IN0r31LylQ-0" value="pmp服务&lt;div&gt;pmp-service-sc&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="640" width="120" height="60" as="geometry" />
         </mxCell>
@@ -209,6 +212,9 @@
         </mxCell>
         <mxCell id="-aDfiEXAthBZ9nUzxsOy-9" value="sc-backend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-aDfiEXAthBZ9nUzxsOy-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
