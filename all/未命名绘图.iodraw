@@ -79,11 +79,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-aDfiEXAthBZ9nUzxsOy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N6bxpgIg19IN0r31LylQ-0">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="585" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="N6bxpgIg19IN0r31LylQ-0" value="pmp服务&lt;div&gt;pmp-service-sc&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="640" width="120" height="60" as="geometry" />
         </mxCell>
@@ -153,7 +148,7 @@
         <mxCell id="N6bxpgIg19IN0r31LylQ-26" value="PmpApiSub&lt;div&gt;本部分无源码&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N6bxpgIg19IN0r31LylQ-30" value="&lt;div&gt;卓越在线后端&lt;/div&gt;zyzx-service-new&lt;div&gt;只有这里的部分接口可访问&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="N6bxpgIg19IN0r31LylQ-30" value="&lt;div&gt;卓越在线后端&lt;/div&gt;zyzx-service-new" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="315" y="950" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Du_0QxZBM9URv1k_5KB1-0" value="鲸准教内在线测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -214,15 +209,6 @@
         </mxCell>
         <mxCell id="-aDfiEXAthBZ9nUzxsOy-9" value="sc-backend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="1340" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-aDfiEXAthBZ9nUzxsOy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.849;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="N6bxpgIg19IN0r31LylQ-0">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="585" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="640" y="610" />
-              <mxPoint x="442" y="610" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
