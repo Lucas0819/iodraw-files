@@ -221,6 +221,9 @@
         <mxCell id="-aDfiEXAthBZ9nUzxsOy-15" value="任务中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="525" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-aDfiEXAthBZ9nUzxsOy-19" value="任务中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
