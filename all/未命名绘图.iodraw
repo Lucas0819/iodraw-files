@@ -128,19 +128,6 @@
         <mxCell id="N6bxpgIg19IN0r31LylQ-6" value="鲸准教内错题重练任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="70" y="555" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N6bxpgIg19IN0r31LylQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.135;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N6bxpgIg19IN0r31LylQ-0" target="N6bxpgIg19IN0r31LylQ-0" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="440" y="600" />
-              <mxPoint x="356" y="600" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="N6bxpgIg19IN0r31LylQ-10" value="内部保存题型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N6bxpgIg19IN0r31LylQ-8" vertex="1" connectable="0">
-          <mxGeometry x="-0.0165" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="N6bxpgIg19IN0r31LylQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N6bxpgIg19IN0r31LylQ-13" target="N6bxpgIg19IN0r31LylQ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -219,11 +206,6 @@
         </mxCell>
         <mxCell id="-aDfiEXAthBZ9nUzxsOy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-aDfiEXAthBZ9nUzxsOy-9" target="Du_0QxZBM9URv1k_5KB1-2">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="-aDfiEXAthBZ9nUzxsOy-14" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-aDfiEXAthBZ9nUzxsOy-13">
-          <mxGeometry x="0.0071" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="-aDfiEXAthBZ9nUzxsOy-9" value="sc-backend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="1340" width="120" height="60" as="geometry" />
