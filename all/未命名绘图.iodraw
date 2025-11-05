@@ -230,12 +230,13 @@
         <mxCell id="-aDfiEXAthBZ9nUzxsOy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.849;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-aDfiEXAthBZ9nUzxsOy-19" target="N6bxpgIg19IN0r31LylQ-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="640" y="570" />
-              <mxPoint x="520" y="570" />
-              <mxPoint x="520" y="610" />
+              <mxPoint x="640" y="610" />
               <mxPoint x="442" y="610" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-aDfiEXAthBZ9nUzxsOy-22" value="新版错题本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="303" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
