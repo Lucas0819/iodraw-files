@@ -184,6 +184,9 @@
         <mxCell id="Du_0QxZBM9URv1k_5KB1-5" value="鲸准教WEB端&lt;div&gt;jx-backend&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-aDfiEXAthBZ9nUzxsOy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Du_0QxZBM9URv1k_5KB1-6" target="-aDfiEXAthBZ9nUzxsOy-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Du_0QxZBM9URv1k_5KB1-6" value="pmp-service-base" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="580" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
