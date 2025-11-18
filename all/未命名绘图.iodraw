@@ -230,8 +230,8 @@
         <mxCell id="A2oL9h7mHBpkfbARTjkD-2" value="旧错题本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A2oL9h7mHBpkfbARTjkD-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="275" y="1768" width="50" height="30" as="geometry" />
+        <mxCell id="A2oL9h7mHBpkfbARTjkD-5" value="wanc a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="1768" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
