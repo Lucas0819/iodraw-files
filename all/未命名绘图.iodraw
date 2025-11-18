@@ -205,7 +205,7 @@
           <mxGeometry x="350" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2oL9h7mHBpkfbARTjkD-0" value="鲸准教" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="353" y="1740" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="1754" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2oL9h7mHBpkfbARTjkD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A2oL9h7mHBpkfbARTjkD-1" target="A2oL9h7mHBpkfbARTjkD-0">
           <mxGeometry relative="1" as="geometry" />
@@ -215,7 +215,7 @@
         </mxCell>
         <mxCell id="A2oL9h7mHBpkfbARTjkD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A2oL9h7mHBpkfbARTjkD-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="349.9999999999998" y="1770" as="targetPoint" />
+            <mxPoint x="360" y="1780" as="targetPoint" />
             <Array as="points">
               <mxPoint x="320" y="1870" />
               <mxPoint x="320" y="1770" />
