@@ -227,11 +227,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="A2oL9h7mHBpkfbARTjkD-6" value="完成任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A2oL9h7mHBpkfbARTjkD-4">
+          <mxGeometry x="0.3551" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="A2oL9h7mHBpkfbARTjkD-2" value="旧错题本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1840" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="A2oL9h7mHBpkfbARTjkD-5" value="wanc a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="1768" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
