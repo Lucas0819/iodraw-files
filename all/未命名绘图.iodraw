@@ -216,6 +216,10 @@
         <mxCell id="A2oL9h7mHBpkfbARTjkD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A2oL9h7mHBpkfbARTjkD-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="349.9999999999998" y="1770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="1870" />
+              <mxPoint x="320" y="1770" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="A2oL9h7mHBpkfbARTjkD-2" value="旧错题本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
