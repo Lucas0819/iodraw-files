@@ -207,8 +207,16 @@
         <mxCell id="A2oL9h7mHBpkfbARTjkD-0" value="鲸准教" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="353" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="A2oL9h7mHBpkfbARTjkD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A2oL9h7mHBpkfbARTjkD-1" target="A2oL9h7mHBpkfbARTjkD-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A2oL9h7mHBpkfbARTjkD-1" value="新错题本&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E9%B2%B8%E5%87%86%E6%95%99%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22354%22%20y%3D%221740%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2oL9h7mHBpkfbARTjkD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A2oL9h7mHBpkfbARTjkD-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="349.9999999999998" y="1770" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="A2oL9h7mHBpkfbARTjkD-2" value="旧错题本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1840" width="120" height="60" as="geometry" />
