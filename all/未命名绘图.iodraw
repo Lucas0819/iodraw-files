@@ -247,7 +247,10 @@
           <mxGeometry x="590" y="1754" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JkCzuUrXD_AuxlOJLXwd-0" value="鲸准教" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-280" y="1760" width="120" height="60" as="geometry" />
+          <mxGeometry x="-480" y="1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JkCzuUrXD_AuxlOJLXwd-2" value="任务中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="1764" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
